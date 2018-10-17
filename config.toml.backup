@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Yohannes Wijaya"
+title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -43,7 +43,7 @@ enableGitInfo = false
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
@@ -51,24 +51,24 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Yohannes Wijaya"
-  role = "Project Coordinator"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Mirai Technologies", url = "http://mirai.co.id" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "readyforservice@icloud.com"
-  address = "Skystar Ventures. UMN. New Media Tower Lv. 12 (Orion). Gading Serpong. Tangerang. Banten 15811"
-  office_hours = ""
-  phone = "021.5421.0716"
-  skype = ""
-  telegram = "macgeekpro"
-  keybase = "macgeekpro"  # Your keybase.io username.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
+  telegram = ""
+  keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -112,7 +112,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "macgeekpro"
+  twitter = ""
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -245,29 +245,24 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/macgeekpro"
-
-  [[params.social]]
-    icon = "stack-overflow"
-    icon_pack = "fab"
-    link = "https://stackoverflow.com/users/2229062/yohannes"
-
-  [[params.social]]
-    icon = "linkedin-in"
-    icon_pack = "fab"
-    link = "https://www.linkedin.com/in/yohanneswijaya"
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "mailto:test@example.org"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/macgeekpro"
+    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "mailto:readyforservice@icloud.com"
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "//github.com/gcushen"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -294,20 +289,15 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
-
-#[[menu.main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -317,9 +307,9 @@ enableGitInfo = false
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[menu.main]]
-#   name = "CV"
-#   url = "files/cv.pdf"
-#   weight = 7
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 7
 
 # Search.
 [params.search]
