@@ -26,39 +26,52 @@ date_format = "January 2006"
   date_start = "2017-02-01"
   date_end = ""
   description = """
-  Coordinate teams of Design, iOS, Android, Hybrid, and Backend to create the following mobile apps for our clients:
-  	
-  * [Fueru](http://fueru.jp)
 
-   * iOS and Android apps that let families in Japan create their own network, share photos to one another, comment on each other photos, order physical photo albums, and sync/backup their photos to Fueru cloud.
-
-  * [Reprice](http://reprice.co)
-   
-   * iOS and Android apps (user and merchant) that allow Food & Beverage menu prices to change depending on factors such as weather, gender, supply and demand, etc in Singapore.
-
-  * [Granboutique-Inn](http://grandboutique-inn)
-
-   * A hybrid mobile app that lets user books properties in Indonesia by hours, by 24-hour, or by regular check-in/out time and a supporting web app that lets properties' owners manage their listings.
-
-  * [Maakler](http://maakler.ee)
-
-   * An Android app that replaces property agent and lets user browse properties and related services in Estonia for valuation, purchase, or rentals purposes and a supporting web app that lets properties' owners manage their listings.
-
-  * Employ Agile Methodology to plan all projects' roadmap, conduct weekly sprints, and carry out daily standup with my teams. 
-
-  * Interface as a bridge between clients and my teams so that a mutual understanding of  the stakes and expectations from both sides can consistently be maintained. 
-
-  * Perform bi-monthly one-to-one with each and every member of my teams to assess individual's state, to provide and listen for constructive feedbacks, and to ensure they're constantly challenging themselves. 
+  Lead and coordinate teams of Design, iOS, Android, Hybrid, and Backend to create and support various clients' mobile application projects. 
 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Indie iOS Developer, Instructor, & Open Source Contributor"
+  company = ""
   company_url = ""
+  location = "Jakarta"
+  date_start = "2015-05-01"
+  date_end = ""
+  description = """
+
+  * Design, build, and maintain a number of iOS apps hosted at [Github](http://github.com/macgeekpro).
+  * Serve as a teaching assistant for a beginner iOS development course at [UMN](http://umn.ac.id).
+  * Contribute to open source 3rd-party Swift projects at Github.
+
+  """
+
+[[experience]]
+  title = "Senior Sales & Marketing Officer"
+  company = "Supernet Advance Teknologi"
+  company_url = "http://super.net.id"
+  location = "Jakarta"
+  date_start = "2013-08-01"
+  date_end = "2015-04-01"
+  description = """
+
+  * Bring in over 60.000.000 IDR of broadband subscription revenue on a monthly basis.
+  * Direct overall marketing strategies (i.e., promotion, social, and printed media).
+
+  """
+
+[[experience]]
+  title = "Specialist"
+  company = "Apple"
+  company_url = "http://apple.com"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2009-08-01"
+  date_end = "2010-08-01"
+  description = """
+
+  Bring in over 700,000 USD of sales revenue for fiscal year 2009 with top three in-store attachment rates for various service add-ons.
+  Engage in hands-on experience leading all stages of Apple's products purchasing efforts including requirements definitions, pricing structures, supports / services availability, and 3rd-party products enhancements.
+
+  """
 
 +++
