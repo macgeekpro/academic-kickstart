@@ -23,26 +23,32 @@ weight = 7
 
 
 [[feature]]
-  icon = "fa-laptop-code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Mobile Application Development"
   description = ""
 
-
 [[feature]]
-  icon = "fa-users"
+  icon = "users"
   icon_pack = "fas"
   name = "Team Management"
   description = ""
 
 [[feature]]
-  icon = "fa-project-diagram"
+  icon = "project-diagram"
   icon_pack = "fas"
   name = "Project Management"
   description = ""
+
   
 [[feature]]
-  icon = "fa-desktop"
+  icon = "file-alt"
+  icon_pack = "fas"
+  name = "Technical Writing"
+  description = ""  
+
+[[feature]]
+  icon = "desktop"
   icon_pack = "fas"
   name = "IT Administration"
   description = ""  
