@@ -35,7 +35,11 @@ weight = 5
 
 # Biography
 
-I am currently a project coordinator at [Mirai Technologies](http://mirai.co.id). We are essentially a software house that focuses on mobile applications catered towards startups. I manage 4 teams; iOS, Android, Hybrid, and Backend (plus a UI/UX designer).  In this capacity, a) I serve as a communication bridge between clients and my teams, b) I plan, prioritize, delegate projects’ features and tasks through an established and agreed timeline and c) I coach and empower my teams so that they consistently are on top of their games.
+I am currently a project coordinator at [Mirai Technologies](http://mirai.co.id). We are essentially a software house that focuses on mobile applications catered towards startups. I manage 4 teams; iOS, Android, Hybrid, and Backend (plus a UI/UX designer).  In this capacity, 
+
+- I serve as a communication bridge between clients and my teams. 
+- I plan, prioritize, delegate projects’ features and tasks through an established and agreed timeline. 
+- I coach and empower my teams so that they consistently are on top of their games.
 
 In addition, prior to project management, I spent time in coding my personal Swift-based projects hosted at [Github](http://github.com/macgeekpro) and participating in open source projects there. I also had the privilege to serve as a teaching assistant in teaching Beginning iOS Development class at [Universitas Multimedia Nusantara](http://umn.ac.id), being responsible, among other things, for creating the in-class project for students to learn from.
 
